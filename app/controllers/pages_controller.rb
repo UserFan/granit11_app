@@ -8,4 +8,7 @@ class PagesController < ApplicationController
   def about
   end
 
+  def works
+  end
+
 end
